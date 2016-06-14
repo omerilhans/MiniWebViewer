@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="62f7e5babd2e3143f6d3e5d8e21c2cd7a5fc756d">
+        <dex dex="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/pre-dexed/debug/instant-run_7970432a956bd5f36e5f09c782a74f285aa74857.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_8ee88ee1a7e682cb347ecc53abd22a3030ac6baa.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_9762808781ad059a2943dc34bdba9c020e006586.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2a50e0b8b31899e950b7e0237c42e4865e107199">
+        <dex dex="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_30beb50dca721de1e93adb0aef12e7b0015249d2.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_5431afd4d899298a3babc251e70c9e847425516a.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ef5a0b20a4c6f04bac57436e99dc87ce7fdd6f78.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_d31ac4b52e07103dbcaaafea7b2119807201e253.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/omer/Desktop/MiniWebViewer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_286bfcce30fde36fe777b52701113d3a3bb8b9c8.jar" />
+    </item>
+
+</items>
